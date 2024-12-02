@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Scan Aset Sekolah</string>
+    <string name="scan_aset">Scan Aset</string>
+    <string name="perbaiki_aset">Perbaiki Aset</string>
+    <string name="pindah_aset">Pindah Aset</string>
+    <string name="submit">Submit</string>
+    <string name="error">Error</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="management_aset">Management Aset</string>
+    <string name="enter_qr">Enter QR</string>
+</resources>
